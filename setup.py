@@ -30,7 +30,7 @@ setup(
         "pyjwt==1.4.2",
         "loguru==0.2.4",
         "Flask-Migrate==2.3.1",
-        "requests==2.19.1",
+        "requests==2.32.2",
         "requests-oauthlib==1.0.0",
         "psycopg2==2.7.5",
         "firebase-admin==2.17.0",
