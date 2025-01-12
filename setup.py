@@ -7,7 +7,7 @@ test_req = [
     "responses==0.9.0",
     "coverage==4.5.2",
     "testing.postgresql",
-    "black==18.9b0",
+    "black==24.3.0",
     "responses==0.10.6",
 ]
 
