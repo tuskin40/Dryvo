@@ -22,7 +22,7 @@ setup(
     packages=["server"],
     install_requires=[
         "gunicorn==19.9.0",
-        "SQLAlchemy==1.2.11",
+        "SQLAlchemy==1.2.19",
         "SQLAlchemy-Utils==0.33.4",
         "Flask==1.0.2",
         "Flask-Login==0.4.1",
