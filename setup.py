@@ -28,7 +28,7 @@ setup(
         "Flask-Login==0.4.1",
         "Flask-SQLAlchemy==2.3.2",
         "pyjwt==1.4.2",
-        "loguru==0.2.4",
+        "loguru==0.6.0",
         "Flask-Migrate==2.3.1",
         "requests==2.19.1",
         "requests-oauthlib==1.0.0",
