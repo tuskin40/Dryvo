@@ -21,7 +21,7 @@ setup(
     license="MIT",
     packages=["server"],
     install_requires=[
-        "gunicorn==19.9.0",
+        "gunicorn==22.0.0",
         "SQLAlchemy==1.2.11",
         "SQLAlchemy-Utils==0.33.4",
         "Flask==1.0.2",
