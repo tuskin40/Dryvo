@@ -24,7 +24,7 @@ setup(
         "gunicorn==19.9.0",
         "SQLAlchemy==1.2.11",
         "SQLAlchemy-Utils==0.33.4",
-        "Flask==1.0.2",
+        "Flask==2.2.5",
         "Flask-Login==0.4.1",
         "Flask-SQLAlchemy==2.3.2",
         "pyjwt==1.4.2",
